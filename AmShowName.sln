@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmShowName.Client", "AmShowName.Client\AmShowName.Client.csproj", "{A42389D4-C3B1-4282-9D51-B75B80F2A882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmShowName.Server", "AmShowName.Server\AmShowName.Server.csproj", "{0AE4C636-E56E-48D6-BFCB-1817492BFDC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ソリューション項目", "ソリューション項目", "{691CD0D3-1401-49CF-BE1D-3A24E44D3184}"
+	ProjectSection(SolutionItems) = preProject
+		fxmanifest.lua = fxmanifest.lua
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42389D4-C3B1-4282-9D51-B75B80F2A882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42389D4-C3B1-4282-9D51-B75B80F2A882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42389D4-C3B1-4282-9D51-B75B80F2A882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42389D4-C3B1-4282-9D51-B75B80F2A882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE4C636-E56E-48D6-BFCB-1817492BFDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE4C636-E56E-48D6-BFCB-1817492BFDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE4C636-E56E-48D6-BFCB-1817492BFDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE4C636-E56E-48D6-BFCB-1817492BFDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAAD2FCB-FEDA-4FF9-A29A-FE15E8CE8027}
+	EndGlobalSection
+EndGlobal
